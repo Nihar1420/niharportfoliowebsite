@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/niharportfoliowebsite/static/css/main.2c9d812b.css",
+    "main.js": "/niharportfoliowebsite/static/js/main.1d451307.js",
+    "static/media/Formalpic.png": "/niharportfoliowebsite/static/media/Formalpic.92b2b0384278f5c90977.png",
+    "static/media/Resume.pdf": "/niharportfoliowebsite/static/media/Resume.7aafddc3334f8ffcc652.pdf",
+    "static/media/Niharmg.jpg": "/niharportfoliowebsite/static/media/Niharmg.cfca04ff1b17834a45f9.jpg",
+    "static/media/Niharnursery.jpg": "/niharportfoliowebsite/static/media/Niharnursery.ca4e664a21a57d7ae2ff.jpg",
+    "static/media/Niharnotes.png": "/niharportfoliowebsite/static/media/Niharnotes.657f6e03df2011003aff.png",
+    "static/media/Nihartution.jpg": "/niharportfoliowebsite/static/media/Nihartution.264b03a6d3dfe40d6619.jpg",
+    "index.html": "/niharportfoliowebsite/index.html",
+    "main.2c9d812b.css.map": "/niharportfoliowebsite/static/css/main.2c9d812b.css.map",
+    "main.1d451307.js.map": "/niharportfoliowebsite/static/js/main.1d451307.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9d812b.css",
+    "static/js/main.1d451307.js"
+  ]
+}
